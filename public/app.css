@@ -1,0 +1,17 @@
+body {
+
+    max-width: 600px;
+    margin: 0 auto;
+    font-family: sans-serif;
+}
+
+p {
+    color: gray;
+    line-height: 1.6;
+}
+
+article + article {
+    margin-top: 3rem;
+    padding-top: 3rem;
+
+}
